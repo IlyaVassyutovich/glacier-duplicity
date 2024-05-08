@@ -1,0 +1,33 @@
+*                       binary
+
+.gitattributes          text=auto diff merge
+.gitignore              text=auto diff merge
+CODEOWNERS              text=auto diff merge
+
+Dockerfile              text=auto diff merge
+Dockerfile.*            text=auto diff merge
+.dockerignore           text=auto diff merge
+
+.editorconfig           text=auto diff merge
+
+*.md                    text=auto diff merge
+*.txt                   text=auto diff merge
+
+*.json                  text=auto diff merge
+*.yaml                  text=auto diff merge
+*.yml                   text=auto diff merge
+*.xml                   text=auto diff merge
+
+*.gotmpl                text=auto diff merge
+
+*.linq                  text=auto diff merge
+*.bash                  text=auto eol=lf diff merge
+*.sh                    text=auto eol=lf diff merge
+
+*.sln                   text=auto diff merge
+*.csproj                text=auto diff merge
+*.cs                    text=auto diff merge
+*.props                 text=auto diff merge
+*.config                text=auto diff merge
+*.DotSettings           text=auto diff merge
+*.runsettings           text=auto diff merge
